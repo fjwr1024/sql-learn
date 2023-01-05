@@ -32,4 +32,5 @@ CREATE TABLE users(
     message TEXT
 )
 
+# テーブルの定義確認
 DESCRIBE users;
